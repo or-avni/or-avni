@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Or Avni</h1>
 <h3 align="center">Student and a Hobbyist Programmer</h3>
 
-- 🔭 I’m currently working on **side projects**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C**
 
